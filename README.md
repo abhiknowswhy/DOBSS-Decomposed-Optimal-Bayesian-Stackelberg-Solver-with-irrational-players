@@ -5,3 +5,5 @@ to accomodate for the irrational behaviour of the follower which will enable the
 strategies which are optimal for the given follower behaviour.
 
 Link to RND showcase poster 2022 - https://cdn.iiit.ac.in/cdn/rndshowcase.iiit.ac.in/tto2022/TTO_website_data/PDF/46.pdf
+
+Link to overleaf paper draft -> https://www.overleaf.com/project/61c13a838a183f7bc507d984
